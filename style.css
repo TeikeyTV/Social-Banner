@@ -1,10 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@100;200;300;400;500;600;700;800;900;1000&display=swap');
+
 * { margin: 0px; padding: 0px; }
 
 
 .main-container {
     width: 120px;
     height: 20px;
-    background-color: aquamarine;
+    background-color: #97A0FF;
     border-radius: 0px 0px 10px 10px;
     padding: 8px 16px;
     transition: background-color 0.5s ease-in-out; 
@@ -38,6 +40,9 @@
 
 .text-container {
     font-size: 16px;
-    font-weight: 700;
-    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800;
+    font-family: 'Nunito', sans-serif;
+    line-height: 16px;
+    letter-spacing: 0px;
+    color: #000;
 }
