@@ -11,6 +11,7 @@ const isTiktok = true;
 const isInstagram = true;
 const isGithub = true;
 const useAltIcon = false;
+const useWhiteIcon = false;
 
 // DOM Selector
 const main = document.querySelector(".main-container");
